@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>TranleaX</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Wed, 14 Jan 2026 17:36:01 +0700</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Sotatek-HungNguyen14/Tranleax_Macos/TranleaX.dmg" length="5313936" type="application/octet-stream" sparkle:edSignature="+KMPF8wGUd1jCin3b2ojxCNMHEUgharfFYLExuUcB/pYw/6NWA5r18eCLLRBPIFnxm80N1vocHROm71BmaD6BQ=="/>
+        </item>
+    </channel>
+</rss>
