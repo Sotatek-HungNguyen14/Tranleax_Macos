@@ -3,12 +3,12 @@
     <channel>
         <title>TranleaX</title>
         <item>
-            <title>1.1</title>
-            <pubDate>Wed, 21 Jan 2026 16:47:02 +0700</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <title>1.2</title>
+            <pubDate>Mon, 26 Jan 2026 21:41:12 +0700</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Sotatek-HungNguyen14/Tranleax_Macos/releases/download/v1.1/TranleaX-1.1.dmg" length="5937806" type="application/octet-stream" sparkle:edSignature="mBzlsXSA/p7MmHyxm0zjTJq3cFuWE7qwqxBemwqoWcA8q9PPsbbWD7hZcPMgklPr1kNQr7AiuClWavvX7JQSCw=="/>
+            <enclosure url="https://github.com/Sotatek-HungNguyen14/Tranleax_Macos/releases/download/v1.2/TranleaX-1.2.dmg" length="5938155" type="application/octet-stream" sparkle:edSignature="xFLxiWMpK6aKfMEYKxjT93R4TfTscVi1LDAWvJTllAb9bv2LnoRAWEmuXbWxqc8Heq7x06vvAEXKuhaxcQTdCA=="/>
         </item>
     </channel>
 </rss>
