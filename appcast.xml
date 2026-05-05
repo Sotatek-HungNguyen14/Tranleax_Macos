@@ -3,12 +3,12 @@
     <channel>
         <title>Saydi</title>
         <item>
-            <title>1.4</title>
-            <pubDate>Mon, 09 Mar 2026 13:47:24 +0700</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <title>1.5</title>
+            <pubDate>Tue, 05 May 2026 11:55:41 +0700</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Sotatek-HungNguyen14/Tranleax_Macos/releases/download/v1.4/Saydi-1.4.dmg" length="6163965" type="application/octet-stream" sparkle:edSignature="vT032PoAHDkk0BGn9R3cHx7HQgfQx2bnL12gyQVVztvypVGZEY2S9cv05miLAMw93sAFNgWjfbe1vpgtl7kZAQ=="/>
+            <enclosure url="https://github.com/Sotatek-HungNguyen14/Tranleax_Macos/releases/download/v1.5/Saydi-1.5.dmg" length="14634767" type="application/octet-stream" sparkle:edSignature="44Zarw4wlJMWP1H98pO42n70QS5th6IZw3XcZGd3QrTzJssh0fHvhwQsSEqpDyzniNo/Rmf0X8EoS9E0PN12BQ=="/>
         </item>
     </channel>
 </rss>
